@@ -1,0 +1,14 @@
+C:\projects\test_runner\bin\Debug\net8.0\test_runner.exe
+C:\projects\test_runner\bin\Debug\net8.0\test_runner.deps.json
+C:\projects\test_runner\bin\Debug\net8.0\test_runner.runtimeconfig.json
+C:\projects\test_runner\bin\Debug\net8.0\test_runner.dll
+C:\projects\test_runner\bin\Debug\net8.0\test_runner.pdb
+C:\projects\test_runner\obj\Debug\net8.0\test_runner.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\test_runner\obj\Debug\net8.0\test_runner.AssemblyInfoInputs.cache
+C:\projects\test_runner\obj\Debug\net8.0\test_runner.AssemblyInfo.cs
+C:\projects\test_runner\obj\Debug\net8.0\test_runner.csproj.CoreCompileInputs.cache
+C:\projects\test_runner\obj\Debug\net8.0\test_runner.dll
+C:\projects\test_runner\obj\Debug\net8.0\refint\test_runner.dll
+C:\projects\test_runner\obj\Debug\net8.0\test_runner.pdb
+C:\projects\test_runner\obj\Debug\net8.0\test_runner.genruntimeconfig.cache
+C:\projects\test_runner\obj\Debug\net8.0\ref\test_runner.dll
